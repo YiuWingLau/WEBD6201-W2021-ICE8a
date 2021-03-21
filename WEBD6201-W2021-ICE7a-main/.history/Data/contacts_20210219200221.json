@@ -1,0 +1,30 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"Yiu Wing",
+            "ContactNumber":"6475554466",
+            "EmailAddress":"nelson@hotmail.com"
+        },
+        {
+            "FullName":"Peter Kuan",
+            "ContactNumber":"4166688688",
+            "EmailAddress":"Pkuan@gmail.com"
+        },
+        {
+            "FullName":"Peter Parker",
+            "ContactNumber":"4165555558",
+            "EmailAddress":"spiderman@example.com"
+        },
+        {
+            "FullName":"Stephen Strange",
+            "ContactNumber":"4165555559",
+            "EmailAddress":"doctorstrange@example.com"
+        },
+        {
+            "FullName":"Reed Richards",
+            "ContactNumber":"4165555550",
+            "EmailAddress":"mrfantastic@example.com"
+        }
+    ]
+}

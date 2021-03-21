@@ -1,0 +1,23 @@
+{
+    "users":
+    [
+        { 
+          "DisplayName": "Nelson Lau", 
+          "EmailAddress": "nelson.lau@hotmail.com",
+          "Username": "nelsonlau",
+          "Password": "246810"
+        },
+        { 
+            "DisplayName": "No Name", 
+            "EmailAddress": "no.name@google.com",
+            "Username": "noname",
+            "Password": "13579"
+        },
+        { 
+            "DisplayName": "Admin", 
+            "EmailAddress": "admin@example.com",
+            "Username": "admin",
+            "Password": "12345678"
+        }
+    ]
+}
